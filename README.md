@@ -25,7 +25,7 @@ Steps
 Clone the repository:
 
 Bash
-git clone https://github.com/YOUR_USERNAME/python-port-scanner.git
+git clone [https://github.com/YOUR_USERNAME/python-port-scanner.git](https://github.com/bhaumikkhandelwal229-oss/Port-Scanner)
 Navigate to the folder:
 
 Bash
